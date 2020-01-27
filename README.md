@@ -1,2 +1,2 @@
 # Experiencia-de-Usuario
-Repositrio de la Clase
+Repositorio de la Clase
